@@ -3,5 +3,7 @@
 source 'https://rubygems.org'
 
 # BEGIN
-
+gem 'minitest-power_assert'
+gem 'rubocop'
+gem 'rubocop-minitest'
 # END
